@@ -2,7 +2,7 @@
 Primeiro NFT do curso de NFT da DIO
 
 ## Objetivo
-Criar um NFT com a imagem abaixo e tranferir para a carteira 
+Criar um NFT com a imagem abaixo e transferir para a carteira 
 0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096
 ![localImage](./img/NFT.png)
 ## Tecnologias utilizadas
